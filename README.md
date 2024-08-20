@@ -6,5 +6,5 @@ Tutorial Available On Channel:
 ![screenshot](show.png)
 
 
-Raw Image:
+BackGround Image:
 ![screenshot](sleepy-mountains-5k-87.jpg)
